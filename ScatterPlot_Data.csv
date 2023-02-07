@@ -1,0 +1,94 @@
+Commune,Region,Population,Superficie,Densite,Partfisc,MedNV,TxPauv,TxChom
+Ajaccio,Corse,68462,82,799,56,20235,16,11
+Marseille,PACA,861635,241,3536,50,18131,26,19
+Nice,PACA,342522,72,4773,53,19344,21,16
+Toulon,PACA,167479,43,3841,49,18842,21,17
+Aix-en-Provence,PACA,142668,186,760,62,23039,14,14
+Avignon,PACA,92130,65,1382,42,16058,31,26
+Antibes,PACA,74875,26,2799,61,21879,14,14
+Cannes,PACA,74285,20,3733,53,19245,19,18
+La Seyne-sur-Mer,PACA,64903,22,2800,49,18921,20,18
+Hyères,PACA,56478,132,412,57,20715,15,14
+Lyon,Auvergne-Rhône-Alpes,513275,48,10118,62,22501,15,14
+Saint-Étienne,Auvergne-Rhône-Alpes,171057,80,2142,45,17802,24,21
+Grenoble,Auvergne-Rhône-Alpes,160649,18,8585,56,20066,19,16
+Villeurbanne,Auvergne-Rhône-Alpes,148665,15,9997,54,19258,20,16
+Clermont-Ferrand,Auvergne-Rhône-Alpes,141398,43,3278,52,18894,21,18
+Annecy,Auvergne-Rhône-Alpes,125694,67,1775,61,22531,12,11
+Vénissieux,Auvergne-Rhône-Alpes,64273,15,3904,41,15687,31,25
+Valence,Auvergne-Rhône-Alpes,62479,37,1728,49,18453,22,19
+Chambéry,Auvergne-Rhône-Alpes,59697,21,2732,53,19648,18,15
+Toulouse,Occitanie,471941,118,3735,55,20289,19,18
+Montpellier,Occitanie,277639,57,4524,48,17640,27,21
+Nîmes,Occitanie,150672,162,879,44,16881,29,22
+Perpignan,Occitanie,121934,68,1725,40,16000,31,26
+Béziers,Occitanie,75999,95,743,37,15546,34,23
+Montauban,Occitanie,59982,135,416,49,19122,20,17
+Bordeaux,Nouvelle-Aquitaine,249712,49,4845,56,21404,17,16
+Limoges,Nouvelle-Aquitaine,133627,78,1783,51,18811,22,19
+Poitiers,Nouvelle-Aquitaine,87918,42,2083,48,18351,23,19
+Pau,Nouvelle-Aquitaine,77215,32,2576,50,19248,19,19
+La Rochelle,Nouvelle-Aquitaine,75404,28,2644,52,19457,18,21
+Mérignac,Nouvelle-Aquitaine,70127,48,1373,62,21944,11,13
+Pessac,Nouvelle-Aquitaine,61332,39,1495,62,22743,12,14
+Niort,Nouvelle-Aquitaine,58952,68,841,55,20499,15,17
+Rennes,Bretagne,215366,50,4111,55,20299,20,17
+Brest,Bretagne,139163,50,2854,50,19210,17,18
+Quimper,Bretagne,63508,84,753,53,20206,14,16
+Lorient,Bretagne,57567,17,3273,48,18624,19,19
+Nantes,Pays de la Loire,303382,65,4371,57,21263,16,17
+Angers,Pays de la Loire,151520,43,3455,50,19194,20,21
+Le Mans,Pays de la Loire,143325,53,2701,52,19479,20,19
+Saint-Nazaire,Pays de la Loire,69784,47,1433,52,19673,15,18
+Strasbourg,Grand Est,277270,78,3473,51,18115,25,19
+Reims,Grand Est,184076,47,3838,50,18231,23,19
+Metz,Grand Est,117492,42,2879,49,18860,22,19
+Mulhouse,Grand Est,110370,22,4941,41,15371,33,29
+Nancy,Grand Est,105162,15,7023,54,20198,21,18
+Colmar,Grand Est,70284,67,1016,52,18886,20,19
+Troyes,Grand Est,60928,13,4567,44,16821,26,25
+Lille,Hauts-de-France,232741,35,6533,50,18102,26,20
+Amiens,Hauts-de-France,132874,49,2698,48,17665,25,21
+Tourcoing,Hauts-de-France,96809,15,6052,39,16349,27,24
+Roubaix,Hauts-de-France,96077,13,7159,29,13208,44,31
+Dunkerque,Hauts-de-France,88876,44,2096,48,18201,21,21
+Calais,Hauts-de-France,75961,34,2198,38,15704,31,28
+Villeneuve-d'Ascq,Hauts-de-France,61920,27,2315,53,19620,19,18
+Saint-Quentin,Hauts-de-France,55649,23,2481,42,16614,28,26
+Le Havre,Normandie,172366,47,3738,49,18375,21,22
+Rouen,Normandie,110169,21,5189,53,19577,22,19
+Caen,Normandie,106260,26,4239,53,19555,20,19
+Cherbourg-en-Cotentin,Normandie,80616,69,1203,51,19802,15,17
+Dijon,Bourgogne-Franche-Comté,155114,40,3742,59,20837,15,15
+Besançon,Bourgogne-Franche-Comté,116676,65,1797,51,18839,21,18
+Tours,Centre-Val de Loire,136252,35,3889,52,19133,20,19
+Orléans,Centre-Val de Loire,114644,27,4155,55,19158,21,17
+Bourges,Centre-Val de Loire,66071,69,966,54,19588,19,17
+Paris,Île-de-France,2206488,105,21289,70,26431,16,12
+Boulogne-Billancourt,Île-de-France,117931,6,18510,77,31268,10,10
+Saint-Denis,Île-de-France,111103,12,8640,41,14340,39,24
+Argenteuil,Île-de-France,110388,17,5989,52,17419,27,18
+Montreuil,Île-de-France,106691,9,11521,57,18289,27,18
+Nanterre,Île-de-France,93742,12,7316,57,19171,21,16
+Vitry-sur-Seine,Île-de-France,92531,12,7319,53,17861,24,18
+Créteil,Île-de-France,90739,11,7852,57,19053,21,15
+Asnières-sur-Seine,Île-de-France,86512,5,17080,68,23775,16,11
+Versailles,Île-de-France,85771,26,3289,77,30600,7,8
+Colombes,Île-de-France,85199,8,10934,62,21158,20,14
+Aubervilliers,Île-de-France,83782,6,13210,34,13039,45,24
+Aulnay-sous-Bois,Île-de-France,83584,16,5069,50,17027,27,19
+Courbevoie,Île-de-France,83136,4,20976,76,28932,10,9
+Rueil-Malmaison,Île-de-France,78794,15,5403,78,30061,7,9
+Champigny-sur-Marne,Île-de-France,76508,11,6682,57,19011,22,15
+Saint-Maur-des-Fossés,Île-de-France,75168,11,6650,76,28787,8,9
+Drancy,Île-de-France,69568,8,8558,49,16600,29,20
+Issy-les-Moulineaux,Île-de-France,69093,4,15142,78,30259,8,9
+Noisy-le-Grand,Île-de-France,66213,13,4862,64,20727,17,14
+Levallois-Perret,Île-de-France,64195,2,26661,76,30504,9,11
+Cergy,Île-de-France,63395,12,4892,55,18427,21,16
+Antony,Île-de-France,61711,10,6464,76,28777,8,9
+Neuilly-sur-Seine,Île-de-France,60910,4,16556,79,43350,8,9
+Clichy,Île-de-France,60435,3,19129,58,18424,25,15
+Ivry-sur-Seine,Île-de-France,59572,6,9464,54,17406,28,17
+Sarcelles,Île-de-France,57412,8,6937,40,14911,34,22
+Villejuif,Île-de-France,56661,5,10391,58,19447,21,15
